@@ -4,10 +4,12 @@ LABEL maintainer=danielmoi
 
 RUN apk add --update \
   neovim \
+  neovim-doc \
   git \
   curl \
   editorconfig \
-  bash
+  bash \
+  man
 
 WORKDIR /root
 
