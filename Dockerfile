@@ -11,4 +11,3 @@ RUN apk add --update \
 
 WORKDIR /root
 
-CMD ["/root"]
