@@ -1,11 +1,2 @@
 # MacOS
 .DS_Store
-
-# Other
-.bash_history
-.vim
-.local
-.bashrc
-
-test*
-sample*
